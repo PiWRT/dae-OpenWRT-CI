@@ -1,5 +1,6 @@
 
 #空行防堆叠
+CONFIG_PACKAGE_luci-app-diskman=y
 CONFIG_PACKAGE_luci-app-daede=y
 CONFIG_PACKAGE_luci-app-daed=y
 CONFIG_PACKAGE_luci-app-dae=y
